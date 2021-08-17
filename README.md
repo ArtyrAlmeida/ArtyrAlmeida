@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atuação: Estudante de ADS e Trainee na Loopis
-- 🌱 Aprendendo: C, Python, HTML e CSS
+- 🌱 Aprendendo: C, JavaScript, HTML e CSS
 - 📫 Email de contato: arturoalmeidafreire@gmail.com
 - 📷 Instagram: @artur.aafr
 - 😄 Pronomes: ele/dele
