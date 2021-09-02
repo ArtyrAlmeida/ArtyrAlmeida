@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atuação: Estudante de ADS e Trainee na Loopis
+- 🔭 Atuação: Estudante de ADS e Diretor de Marketing/Consultor Junior na Loopis
 - 🌱 Aprendendo: C, JavaScript, HTML e CSS
 - 📫 Email de contato: arturoalmeidafreire@gmail.com
 - 📷 Instagram: @artur.aafr
