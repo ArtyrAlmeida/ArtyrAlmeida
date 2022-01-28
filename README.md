@@ -3,8 +3,8 @@
 ## Um pouco sobre mim
 
 - 🔭 **Atuação**: Diretor de Marketing/Consultor Junior na Loopis
-- 📚 **Estudando**: Terminal e Git, C, Web Development
-- 🌱 **Aprendendo**: JavaScript, React, Wordpress e Bootstrap
+- 📚 **Estudando**: Terminal e Git, Web Development
+- 🌱 **Aprendendo**: JavaScript, React
 - 📫 **Email de contato**: arturoalmeidafreire@gmail.com
 - 😄 **Pronomes**: ele/dele
 - 🎸 **No tempo livre**: Estudante de música
