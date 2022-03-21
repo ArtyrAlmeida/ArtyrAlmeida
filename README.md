@@ -2,9 +2,8 @@
 
 ## Um pouco sobre mim
 
-- 🔭 **Atuação**: Diretor de Marketing/Consultor Junior na Loopis
-- 📚 **Estudando**: Terminal e Git, Web Development
-- 🌱 **Aprendendo**: JavaScript, React
+- 🔭 **Atuação**: Vice-Presidente/Consultor Junior na Loopis Soluções Tecnológicas
+- 📚 **Estudando**: Javascript, desenvolvimento WEB
 - 📫 **Email de contato**: arturoalmeidafreire@gmail.com
 - 😄 **Pronomes**: ele/dele
 - 🎸 **No tempo livre**: Estudante de música
@@ -12,7 +11,7 @@
 ## Informações básicas
 
 - **Nome**: Artur Almeida
-- **Idade**: 18
+- **Idade**: 19
 - **Morando em**: Cajazeiras-PB
 - **Cursando**: Análise e Desenvolvimento de Sistemas - IFPB Cajazeiras
 
