@@ -3,7 +3,7 @@
 ## Um pouco sobre mim
 
 - 🔭 **Atuação**: Vice-Presidente/Consultor Junior na Loopis Soluções Tecnológicas
-- 📚 **Estudando**: Javascript, Java, Banco de Dados
+- 📚 **Estudando**: Javascript, React, Java, SQL
 - 📫 **Email de contato**: arturoalmeidafreire@gmail.com
 - 😄 **Pronomes**: ele/dele
 - 🎸 **No tempo livre**: Estudante de música
