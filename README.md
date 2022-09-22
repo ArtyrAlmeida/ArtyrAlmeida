@@ -3,7 +3,7 @@
 ## Um pouco sobre mim
 
 - 🔭 **Atuação**: Vice-Presidente/Consultor Junior na Loopis Soluções Tecnológicas
-- 📚 **Estudando**: Javascript, React, Java, SQL
+- 📚 **Estudando**: Javascript, Node.js, Express.js, testes
 - 📫 **Email de contato**: arturoalmeidafreire@gmail.com
 - 😄 **Pronomes**: ele/dele
 - 🎸 **No tempo livre**: Estudante de música
@@ -23,7 +23,10 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          
+          
 </div>
 
 ## Me encontre!
