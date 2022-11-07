@@ -3,7 +3,7 @@
 ## Um pouco sobre mim
 
 - 🔭 **Atuação**: Vice-Presidente/Consultor Junior na Loopis Soluções Tecnológicas
-- 📚 **Estudando**: Javascript, Node.js, Express.js, testes
+- 📚 **Estudando**: Typescript, Mongodb, DialogFlow, Node.js, Express.js, testes
 - 📫 **Email de contato**: arturoalmeidafreire@gmail.com
 - 😄 **Pronomes**: ele/dele
 - 🎸 **No tempo livre**: Estudante de música
