@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim
 
-- 🔭 **Atuação**: Vice-Presidente/Consultor Junior na Loopis Soluções Tecnológicas
+- 🔭 **Atuação**: Desenvolvedor estagiário na E.life, Vice-Presidente na Loopis Soluções Tecnológicas
 - 📚 **Estudando**: Typescript, Mongodb, DialogFlow, Node.js, Express.js, testes
 - 📫 **Email de contato**: arturoalmeidafreire@gmail.com
 - 😄 **Pronomes**: ele/dele
